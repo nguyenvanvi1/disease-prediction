@@ -1,0 +1,7 @@
+uploads/
+plants.db
+.env
+mobilenet_model.h5
+mobilenet_model.keras
+__pycache__/
+*.pyc
